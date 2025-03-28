@@ -1,0 +1,32 @@
+#header-1{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 125px;
+    text-align: center;
+    color: #561C24;
+    background-color: #985861;
+}
+body{
+    background-color: #E8D8C4;
+}
+
+a{
+    font-family: "Bebas Neue", sans-serif;
+    color: #561C24;
+    text-decoration: none;
+}
+.p-principal{
+    font-family: "Teko", sans-serif;
+    font-size: 40px;
+    text-align: justify;
+    color: #897f72;
+}
+img{
+    
+    border-radius: 5%;
+    text-align: center;
+}
+.img-album{
+    height: 200px;
+    width: 200px;
+    
+}
