@@ -30,3 +30,7 @@ img{
     width: 200px;
     
 }
+body div.index {
+    margin: 480px, 500px, 200px, 200px;
+    padding: 200px, 200px, 200px, 200px;
+}
